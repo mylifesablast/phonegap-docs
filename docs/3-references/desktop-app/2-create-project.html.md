@@ -49,4 +49,4 @@ Once you've selected the template you want to use, click on the green **Next** b
 
 ## Next Steps
 
-You can now test out your new app by [pairing it](/references/desktop-app/pair-with-dev-app/) with the **PhoneGap Developer App** running on your mobile device.
+You can now test out your new app by [pairing it](/references/desktop-app/pair-with-dev-app/) with the **PhoneGap Developer App** (Not longer available for IOS in Apple Store) running on your mobile device.
